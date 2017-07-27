@@ -8,7 +8,7 @@
     <name>eventstore-client</name>
 
     <properties>
-        <version.eventstore-api>1.0.0</version.eventstore-api>
+        <version.eventstore-api>1.0.0-SNAPSHOT</version.eventstore-api>
     </properties>
 
     <dependencyManagement>

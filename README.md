@@ -18,7 +18,7 @@ Include the following in your pom.xml to take on this dependency:
 <dependency>
     <groupId>gov.dvla.osl</groupId>
     <artifactId>eventstore-client</artifactId>
-    <version>2.3.4-SNAPSHOT</version>
+    <version>1.0.0</version>
 </dependency>
 ```
 
