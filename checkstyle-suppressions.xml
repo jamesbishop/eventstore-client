@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE suppressions PUBLIC
+        "-//Puppy Crawl//DTD Suppressions 1.0//EN"
+        "http://www.puppycrawl.com/dtds/suppressions_1_0.dtd">
+
+<suppressions>
+    <!-- Suppress the catching Throwable style error -->
+    <suppress checks="RegexpMultiline"
+              files="EventHandler.java"
+              lines="41"/>
+    <suppress checks="RegexpMultiline"
+              files="ProjectionProcessor.java"
+              lines="83"/>
+</suppressions>
