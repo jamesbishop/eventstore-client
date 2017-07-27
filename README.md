@@ -8,7 +8,7 @@ This project uses the reference API for event sourcing, as below:
 <dependency>
     <groupId>uk.co.blackcell.eventsourcing</groupId>
     <artifactId>eventstore-api</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-SNAPSHOT</version>
 </dependency>
 ```
 
@@ -18,7 +18,7 @@ Include the following in your pom.xml to take on this dependency:
 <dependency>
     <groupId>gov.dvla.osl</groupId>
     <artifactId>eventstore-client</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-SNAPSHOT</version>
 </dependency>
 ```
 
